@@ -88,7 +88,7 @@ var callTable = function(){
   //client.sendIntent("showTable",  JSON.stringify(dataJSON));
 }
 
-Gamifier.triggerAction("{add}");
+
 
 
 // DeleteMessage
@@ -132,7 +132,8 @@ var responseAction = function(data){
   console.log(data);
   var dataJSON = JSON.parse(data);
   if(data){
-    reloadData(dataJSON.list);    
+    reloadData(dataJSON.list); 
+    Gamifier.triggerAction("{add}");
   }else{
     $("#messageStatus").val("No data found!");
   }
