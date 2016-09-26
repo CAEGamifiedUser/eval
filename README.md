@@ -30,6 +30,10 @@ http://gaudi.informatik.rwth-aachen.de:8073/{whatever the name is}
 ```
 - Add the gamified widget
 ```
-http://CAEGamifiedUser.github.io/eval/ToDoList-{Your nick name}/widget.xml
+https://CAEGamifiedUser.github.io/eval/ToDoList-{Your nick name}/widget.xml
+```
+- Add the visualization widget
+```
+https://rwth-acis.github.io/Gamification-Visualization-Frontend/widget.xml
 ```
 -Finish
