@@ -23,7 +23,15 @@ Gamifier.triggerAction("{action ID}");
 ```
 in wherever it is needed to trigger action
 
-- Create a new space in ROLE
+Include Gamifierjs files in widget.xml
+---
+```
+<script type="text/javascript" src="https://caegamifieduser.github.io/eval/ToDoList/gamification/gamifier.js"></script>
+<script type="text/javascript" src="https://caegamifieduser.github.io/eval/ToDoList/gamification/oidc-widget.js"></script>
+```
+
+Create a new space in ROLE
+---
 ```
 http://gaudi.informatik.rwth-aachen.de:8073/{whatever the name is}
 ```
