@@ -92,6 +92,9 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <!-- import application script -->
   <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoList/js/applicationScript.js"></script>
 
+  <script type="text/javascript" src="http://CAEGamifiedUser.github.io/ToDoList/gamification/gamifier.js"></script>
+<script type="text/javascript" src="http://CAEGamifiedUser.github.io/ToDoList/gamification/oidc-widget.js"></script>
+
 </head>
 <body>
 
