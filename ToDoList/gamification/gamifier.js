@@ -1,5 +1,5 @@
 ﻿  var memberId,
-  appId = '$Application_Id$',
+  appId = 'todolistex',
   epURL = 'http://gaudi.informatik.rwth-aachen.de:8081/',
   iwcGamification;
 
