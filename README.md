@@ -11,7 +11,7 @@ https://github.com/CAE-Gamified/Gamifierjs
 - You only need to edit applicationScript.js in ToDoList/js and gamifier.js in ToDoList/gamification folder
 
 Edit the files
-
+---
 - Edit File gamifier.js
 
 change $APPLICATION_ID$ with application ID of gamification
