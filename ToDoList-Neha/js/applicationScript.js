@@ -88,6 +88,8 @@ var callTable = function(){
   //client.sendIntent("showTable",  JSON.stringify(dataJSON));
 }
 
+Gamifier.triggerAction("{add}");
+
 
 // DeleteMessage
 var DeleteMessage = function(){
