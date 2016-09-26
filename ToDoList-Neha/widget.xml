@@ -91,6 +91,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
   <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoList/js/lib/las2peerWidgetLibrary.js"></script>
   <!-- import application script -->
   <script type="text/javascript" src="http://CAE-Dev.github.io/frontendComponent-ToDoList/js/applicationScript.js"></script>
+<script type="text/javascript" src="http://CAEGamifiedUser.github.io/eval/ToDoList-Neha/gamification/oidc-widget.js"></script>
+<script type="text/javascript" src="http://CAEGamifiedUser.github.io/eval/ToDoList-Neha/js/gamifier.js"></script>
 
 </head>
 <body>
